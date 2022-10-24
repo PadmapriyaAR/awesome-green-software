@@ -93,6 +93,7 @@ THESE MATERIALS ARE PROVIDED “AS IS.” The parties expressly disclaim any war
 - [turbostress](https://github.com/teads/turbostress) This tool generates load and outputs computer power metrics for this load.
 
 #### Web
+-[Ecosia-SearchEngine](https://www.ecosia.org/) An search Engine that plants tree.
 - [Carbonalyser - TheShiftProject](https://theshiftproject.org/en/carbonalyser-browser-extension/)
 - [Carbon Footprint of Sending Data](https://observablehq.com/@mrchrisadams/carbon-footprint-of-sending-data-around) An online calculator for estimating carbon emissions from network traffic, based on the Shift projects Lean ICT report.
 - [Clickclean.org](http://www.clickclean.org/) Energy footprint of commonly used applications.
